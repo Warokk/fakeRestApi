@@ -2,48 +2,48 @@
     "tasks": [
       {
         "id": 1,
-        "title": "hello",
+        "title": "Tâche 1",
         "statut": "Ouvert"
       },
       {
         "id": 2,
-        "title": "hello",
+        "title": "Tâche 2",
         "statut": "Ouvert"
       },
       {
         "id": 3,
-        "title": "hello",
+        "title": "Tâche 3",
         "statut": "Ouvert"
       },
       {
         "id": 4,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 4",
+        "statut": "En cours"
       },
       {
         "id": 5,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 5",
+        "statut": "En cours"
       },
       {
         "id": 6,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 6",
+        "statut": "En cours"
       },
       {
         "id": 7,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 7",
+        "statut": "Terminé"
       },
       {
         "id": 8,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 8",
+        "statut": "Terminé"
       },
       {
         "id": 9,
-        "title": "hello",
-        "statut": "Ouvert"
+        "title": "Tâche 9",
+        "statut": "Terminé"
       }
     ]
 }
